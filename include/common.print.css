@@ -1,0 +1,11 @@
+body {
+	background-color:#FFF;
+}
+
+#sidecontent {
+	display: none;
+}
+
+#maincontent {
+	width: 100%;
+}
